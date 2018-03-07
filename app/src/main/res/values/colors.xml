@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <!--正文文字颜色-->
+    <color name="colorContent">#ff333333</color>
+
+    <!--页面背景的颜色-->
+    <color name="colorPageBg">#f2f4f5</color>
+
+    <!--item的水波纹颜色-->
+    <color name="itemBackground">#DD7D7D7D</color>
+
+    <!--item的分割线-->
+    <color name="colorLineItem">#FFDDDDDD</color>
+
+    <!--item的5.0一下版本选择器颜色-->
+    <color name="itemLowBackground">#d9d9d9</color>
+
+    <!--没有水波纹效果的颜色选择器-->
+    <color name="colorItemBackground">#d9d9d9</color>
+    <!-- grey -->
+    <color name="md_grey_500">#9e9e9e</color>
+    <color name="md_grey_700">#616161</color>
+</resources>
